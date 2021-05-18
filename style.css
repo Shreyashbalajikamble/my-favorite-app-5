@@ -1,0 +1,51 @@
+img1{
+    border-radius: 75%;
+}
+
+#body{
+    text-align: center;
+}
+
+#hobby{
+  background-color: aquamarine;  
+}
+
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+color: black;
+}
+
+#name{
+    font-family: 'courgette', cursive;
+}
+
+#about{
+    background-color: deeppink;
+}
+
+#books{
+  background-color: aquamarine;
+}
+
+#jk{
+    transition: transform .2s;
+ border: 10px solid #AAAAAA;
+    height: 300px;
+    width: 200px;
+}
+
+#pc{
+    transition: transform .2s;
+ border: 10px solid #AAAAAA;
+    height: 300px;
+    width: 200px;
+}
+
+#Inspiration{
+    background-color: blue;
+}
